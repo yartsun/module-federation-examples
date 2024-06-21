@@ -43,10 +43,10 @@ importers:
         specifier: 0.7.9
         version: 0.7.9(@rsbuild/core@0.7.9)(@swc/helpers@0.5.3)
       '@types/react':
-        specifier: ^18.2.79
+        specifier: 18.3.3
         version: 18.3.3
       '@types/react-dom':
-        specifier: ^18.2.25
+        specifier: 18.3.0
         version: 18.3.0
       typescript:
         specifier: 5.4.5
@@ -77,10 +77,10 @@ importers:
         specifier: 0.7.9
         version: 0.7.9(@rsbuild/core@0.7.9)(@swc/helpers@0.5.3)
       '@types/react':
-        specifier: ^18.2.79
+        specifier: 18.3.3
         version: 18.3.3
       '@types/react-dom':
-        specifier: ^18.2.25
+        specifier: 18.3.0
         version: 18.3.0
       typescript:
         specifier: 5.4.5
@@ -111,10 +111,10 @@ importers:
         specifier: 0.7.9
         version: 0.7.9(@rsbuild/core@0.7.9)(@swc/helpers@0.5.3)
       '@types/react':
-        specifier: ^18.2.79
+        specifier: 18.3.3
         version: 18.3.3
       '@types/react-dom':
-        specifier: ^18.2.25
+        specifier: 18.3.0
         version: 18.3.0
       typescript:
         specifier: 5.4.5
@@ -145,10 +145,10 @@ importers:
         specifier: 0.7.9
         version: 0.7.9(@rsbuild/core@0.7.9)(@swc/helpers@0.5.3)
       '@types/react':
-        specifier: ^18.2.79
+        specifier: 18.3.3
         version: 18.3.3
       '@types/react-dom':
-        specifier: ^18.2.25
+        specifier: 18.3.0
         version: 18.3.0
       typescript:
         specifier: 5.4.5
